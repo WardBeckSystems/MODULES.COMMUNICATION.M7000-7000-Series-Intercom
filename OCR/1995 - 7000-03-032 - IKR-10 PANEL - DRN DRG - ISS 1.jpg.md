@@ -33,7 +33,7 @@ Wiki page: [M7000](../../../../PAGES/M7000.md)
 - **Words (OCR):** 36 in 35 lines: 17.110 · PTCHES · DIPEMILF · 0nat · OTHER · REQE · (0.04 Ran · INSERT · 0.546 · 0,805 · 1.719 Oio ZU · 0.242
 - **Title block:** (172, 32)–(859, 87) mm: ISSUEDAEL · REMsiOT · WBS · WARD-BECK SYSTEMS · (SCALE 4 · DETAIL · #budt · DaN_DRG(S / 95) · IKR-10 · PANEL
 
-Every curve, box, word and wire group: [1995 - 7000-03-032 - IKR-10 PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%207000-03-032%20-%20IKR-10%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1995 - 7000-03-032 - IKR-10 PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 7000-03-032 - IKR-10 PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%207000-03-032%20-%20IKR-10%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 7000-03-032 - IKR-10 PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

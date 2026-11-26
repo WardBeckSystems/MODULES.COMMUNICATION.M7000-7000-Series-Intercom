@@ -33,7 +33,7 @@ Wiki page: [M7000](../../../../PAGES/M7000.md)
 - **Words (OCR):** 34 in 31 lines: 17.110 · 16,710 · DTCHES · 4480 · 0.z00 · 520 REC'D 9 Ec · 0.546 · 0,592 · 1719 · 0,626 · 0,797 · 0,+07
 - **Title block:** (673, 44)–(842, 79) mm: REHSCN · WBS · WARD-BECK  SYSTEMS
 
-Every curve, box, word and wire group: [1995 - 7000-03-037 - IKR-10B (1 RACK UNIT) PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%207000-03-037%20-%20IKR-10B%20(1%20RACK%20UNIT)%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1995 - 7000-03-037 - IKR-10B (1 RACK UNIT) PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 7000-03-037 - IKR-10B (1 RACK UNIT) PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%207000-03-037%20-%20IKR-10B%20%281%20RACK%20UNIT%29%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 7000-03-037 - IKR-10B (1 RACK UNIT) PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

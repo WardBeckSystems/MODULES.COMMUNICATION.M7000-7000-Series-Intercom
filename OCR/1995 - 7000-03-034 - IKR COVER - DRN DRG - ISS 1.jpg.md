@@ -33,7 +33,7 @@ Wiki page: [M7000](../../../../PAGES/M7000.md)
 - **Words (OCR):** 25 in 21 lines: 17.320 · 04870 - · 01830 · 1.28C · 6.110 · 0.130 · "8.384 C"Sk 02 REOEG · CHAMFER 0,12 45 DEC REC D · 0,250 · WARD-BECK SYSTEMS · WBS · AURET
 - **Title block:** (688, 67)–(860, 103) mm: WARD-BECK SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1995 - 7000-03-034 - IKR COVER - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%207000-03-034%20-%20IKR%20COVER%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1995 - 7000-03-034 - IKR COVER - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 7000-03-034 - IKR COVER - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%207000-03-034%20-%20IKR%20COVER%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 7000-03-034 - IKR COVER - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

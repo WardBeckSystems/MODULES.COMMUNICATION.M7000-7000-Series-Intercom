@@ -33,7 +33,7 @@ Wiki page: [M7000](../../../../PAGES/M7000.md)
 - **Words (OCR):** 31 in 28 lines: 0,2p0 · 0.245 · REQO /SIDE · 0.290 · 0,2E0 · 1-285 · 5,263 · 6.113 · WELD AND GRIND ShooTh MATED CCRNERS · 5440= · INSIAL · REO'D
 - **Title block:** (689, 45)–(860, 86) mm: ISSUCI DATE · WBS · WARD-BECK SYSTEMS · Idrx; cacis/5
 
-Every curve, box, word and wire group: [1995 - 7000-03-031 - IKR-4A REAR HOUSING - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%207000-03-031%20-%20IKR-4A%20REAR%20HOUSING%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1995 - 7000-03-031 - IKR-4A REAR HOUSING - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 7000-03-031 - IKR-4A REAR HOUSING - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%207000-03-031%20-%20IKR-4A%20REAR%20HOUSING%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 7000-03-031 - IKR-4A REAR HOUSING - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

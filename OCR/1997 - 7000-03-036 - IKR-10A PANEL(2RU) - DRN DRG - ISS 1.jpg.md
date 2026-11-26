@@ -33,7 +33,7 @@ Wiki page: [M7000](../../../../PAGES/M7000.md)
 - **Words (OCR):** 43 in 40 lines: 17110 · 16 Ti0 · PMCHES · Djad SQ · {0,04 R40 CORRERS] · 0.200 · 74t0 · 0.725 · DeTAL · 0 747 · 2.000 · 0.554
 - **Title block:** (667, 43)–(844, 114) mm: WBS · WARD-BECK SYSTEMS · IKR-10A · PANEL(2RU) · SCALE · 7000-03-036
 
-Every curve, box, word and wire group: [1997 - 7000-03-036 - IKR-10A PANEL(2RU) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1997%20-%207000-03-036%20-%20IKR-10A%20PANEL(2RU)%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1997 - 7000-03-036 - IKR-10A PANEL(2RU) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1997 - 7000-03-036 - IKR-10A PANEL(2RU) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1997%20-%207000-03-036%20-%20IKR-10A%20PANEL%282RU%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1997 - 7000-03-036 - IKR-10A PANEL(2RU) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

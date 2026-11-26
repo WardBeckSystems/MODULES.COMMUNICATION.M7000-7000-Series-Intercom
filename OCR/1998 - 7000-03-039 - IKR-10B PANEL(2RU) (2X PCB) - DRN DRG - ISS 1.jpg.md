@@ -33,7 +33,7 @@ Wiki page: [M7000](../../../../PAGES/M7000.md)
 - **Words (OCR):** 47 in 45 lines: PMCHES · OFRPEREL · UNC · REQ D · CSk RLAR · 0,200 · 0 172 · DP OTHER · RREQE · INCERT · 440 · 0.725
 - **Title block:** (669, 8)–(845, 79) mm: WARD-BECK  SYSTEMS · WBS · IKR-1OB · PANEL(ZRU) · (2X PCB) · ScALE · 7000-03-039 · [CCDE: 7cOD-0j9
 
-Every curve, box, word and wire group: [1998 - 7000-03-039 - IKR-10B PANEL(2RU) (2X PCB) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1998%20-%207000-03-039%20-%20IKR-10B%20PANEL(2RU)%20(2X%20PCB)%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1998 - 7000-03-039 - IKR-10B PANEL(2RU) (2X PCB) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1998 - 7000-03-039 - IKR-10B PANEL(2RU) (2X PCB) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1998%20-%207000-03-039%20-%20IKR-10B%20PANEL%282RU%29%20%282X%20PCB%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1998 - 7000-03-039 - IKR-10B PANEL(2RU) (2X PCB) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

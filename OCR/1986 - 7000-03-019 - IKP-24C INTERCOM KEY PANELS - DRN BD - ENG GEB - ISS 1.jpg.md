@@ -34,7 +34,7 @@ Wiki page: [M7000](../../../../PAGES/M7000.md)
 - **Words (OCR):** 74 in 65 lines: 18.9C0 · 650 · PITCHES · 0.689 15.847 · 17584 · 0.Joo TP · 0.250 · 0,150 TP. · 0,750 · 0,560 _ · 2.969 · 5.+68
 - **Title block:** (697, 31)–(845, 71) mm: ISSUEI DAIL · WARD-BECK   SYSTEMS · WE3S · BD 8 /30 · IKP_24C
 
-Every curve, box, word and wire group: [1986 - 7000-03-019 - IKP-24C INTERCOM KEY PANELS - DRN BD - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1986%20-%207000-03-019%20-%20IKP-24C%20INTERCOM%20KEY%20PANELS%20-%20DRN%20BD%20-%20ENG%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1986 - 7000-03-019 - IKP-24C INTERCOM KEY PANELS - DRN BD - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - 7000-03-019 - IKP-24C INTERCOM KEY PANELS - DRN BD - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1986%20-%207000-03-019%20-%20IKP-24C%20INTERCOM%20KEY%20PANELS%20-%20DRN%20BD%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1986 - 7000-03-019 - IKP-24C INTERCOM KEY PANELS - DRN BD - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

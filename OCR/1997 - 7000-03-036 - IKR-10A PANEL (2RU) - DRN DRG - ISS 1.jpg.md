@@ -35,7 +35,7 @@ Panel drawing with dimensions and detail views, title block at bottom right.
 - **Words (OCR):** 64 in 61 lines: 17.110 · 16.710 · PUNCH 0.380 SQ · PITCHES OF 1.000 9.000 · (0.04 RAD CORNERS) · Sk REAR · 90 DEG · PANEL · 500 DIA · 0.855 · 448 · 0.282 0,564
 - **Title block:** (588, 65)–(829, 238) mm: DETAIL · (SCALE 4:1) · REVISION · ISSUE] DATEL · WBS · WARD-BECK · SYSTEMS · DRG(8 · DRN: · ENG; · IKR-1OA · PANEL(2RU) · CKD; · 7000-03-036 · SSUE · SCALE · DISC NO: · CODE: 7000-036
 
-Every curve, box, word and wire group: [1997 - 7000-03-036 - IKR-10A PANEL (2RU) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1997%20-%207000-03-036%20-%20IKR-10A%20PANEL%20(2RU)%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1997 - 7000-03-036 - IKR-10A PANEL (2RU) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1997 - 7000-03-036 - IKR-10A PANEL (2RU) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1997%20-%207000-03-036%20-%20IKR-10A%20PANEL%20%282RU%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1997 - 7000-03-036 - IKR-10A PANEL (2RU) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

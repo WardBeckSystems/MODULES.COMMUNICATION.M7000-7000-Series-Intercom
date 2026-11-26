@@ -32,7 +32,7 @@ Wiki page: [M7000](../../../../PAGES/M7000.md)
 - **Words (OCR):** 74 in 61 lines: 35 DEGREES · ALL DIMENSIONS · To OUTSIDE APEX · 1.937 · 0.562 · 0.312 · 0.614 · 0.156 · 0.562 · 0.170 · 25 DEGREES · 25 DEGREES
 - **Title block:** (96, 24)–(419, 192) mm: 1.000 · 0.660 · 7000-03-017-1 BELT CLIP · TYPE 1075 SCALELESS TEMPERED · 44-47 SPRING · STEEL (0.042 THK) · FINISH:   NICKEL PLATE · #6-32 UNC · 2 PLACES · 7000-03-017-2 CLIP RETAINING PLATE · MATERIA
 
-Every curve, box, word and wire group: [1988 - 7000-03-017 - BELT CLIP - DRN DRG - ISS 5 (traced).json](../MECHANICAL/1988%20-%207000-03-017%20-%20BELT%20CLIP%20-%20DRN%20DRG%20-%20ISS%205%20(traced).json) (the CAD file: `1988 - 7000-03-017 - BELT CLIP - DRN DRG - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 7000-03-017 - BELT CLIP - DRN DRG - ISS 5 (traced).json](../MECHANICAL/1988%20-%207000-03-017%20-%20BELT%20CLIP%20-%20DRN%20DRG%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1988 - 7000-03-017 - BELT CLIP - DRN DRG - ISS 5 (traced).dxf`).
 
 ## Full text
 
