@@ -1,0 +1,133 @@
+{
+ "drawing": "Modules/COMMUNICATION/M7000/MECHANICAL/1995 - 7000-03-035 - COVER SUPPORT - DRN DRG - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/e973a0e7bd1ed07e.svg",
+ "sheet": {
+  "number": "B 7000-03-035",
+  "title": "COVER SUPPORT",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.6, 431.4, 297.9],
+ "outlines": {
+  "line": {"rings": 102, "straight": {"n": 1961, "mm": 7384.0}, "curved": {"n": 157, "mm": 212.1}},
+  "text": {"rings": 497, "straight": {"n": 3190, "mm": 4089.6}, "curved": {"n": 1065, "mm": 1597.5}},
+  "tb": {"rings": 3, "straight": {"n": 87, "mm": 205.9}, "curved": {"n": 2, "mm": 2.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1081, "straight": {"n": 1125, "mm": 2933.1}, "curved": {"n": 28, "mm": 38.5}},
+   "text": {"paths": 1915, "straight": {"n": 2954, "mm": 2711.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 162, "straight": {"n": 180, "mm": 1043.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 86,
+  "orientation": {"horizontal": {"n": 1037, "mm": 3326.9}, "vertical": {"n": 1077, "mm": 1470.5}, "diagonal": {"n": 2145, "mm": 1891.3}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [119.8, 186.4], "r": 3.2, "kind": "arc", "span": 235, "from": ["centre line"], "start": 299},
+  {"c": [251.0, 184.8], "r": 3.0, "kind": "arc", "span": 131, "from": ["centre line"], "start": 302},
+  {"c": [251.3, 185.5], "r": 2.9, "kind": "arc", "span": 133, "from": ["centre line"], "start": 127},
+  {"c": [428.2, 292.7], "r": 2.1, "kind": "arc", "span": 146, "from": ["centre line"], "start": 28},
+  {"c": [119.5, 186.2], "r": 1.6, "kind": "arc", "span": 96, "from": ["centre line"], "start": 272},
+  {"c": [120.4, 187.1], "r": 1.4, "kind": "arc", "span": 116, "from": ["centre line"], "start": 103},
+  {"c": [430.6, 83.7], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 78}
+ ],
+ "boxes": [
+  {"mm": [288.7, 79.2, 301.0, 85.5], "w": 12.3, "h": 6.3, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [401.6, 78.2, 411.5, 84.2], "w": 9.9, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [256.9, 59.6, 411.5, 79.5], "w": 154.6, "h": 19.9, "from": "ring", "words": ["WARD-BECK", "WBS", "SYSTEMS"], "in_title_block": true},
+  {"mm": [256.7, 54.6, 292.8, 60.9], "w": 36.1, "h": 6.3, "from": "ring", "words": ["DRN: DRG(5/95)"], "in_title_block": true},
+  {"mm": [293.0, 33.4, 411.3, 60.5], "w": 118.3, "h": 27.0, "from": "ring", "words": ["COVER", "SUPPORT"], "in_title_block": true},
+  {"mm": [256.7, 47.9, 292.8, 54.6], "w": 36.1, "h": 6.7, "from": "ring", "words": ["ENG"], "in_title_block": true},
+  {"mm": [256.7, 41.5, 292.5, 47.9], "w": 35.8, "h": 6.5, "from": "ring", "words": ["CKD"], "in_title_block": true},
+  {"mm": [256.5, 34.8, 292.5, 41.5], "w": 36.1, "h": 6.7, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [256.5, 21.9, 274.8, 34.8], "w": 18.4, "h": 12.8, "from": "ring", "words": ["SCALE", "1:1"], "in_title_block": true},
+  {"mm": [275.0, 28.3, 311.3, 34.5], "w": 36.3, "h": 6.3, "from": "ring", "words": ["DISC", "NO: SYSO1"], "in_title_block": true},
+  {"mm": [311.8, 21.6, 322.6, 34.1], "w": 10.8, "h": 12.5, "from": "ring"},
+  {"mm": [322.8, 20.7, 394.7, 34.1], "w": 71.9, "h": 13.4, "from": "ring", "words": ["7000-03-035"]},
+  {"mm": [395.1, 20.5, 410.9, 33.2], "w": 15.8, "h": 12.7, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [275.1, 21.6, 311.3, 28.3], "w": 36.3, "h": 6.7, "from": "ring", "words": ["CODE: 7000-035"]}
+ ],
+ "text": {
+  "words": 57,
+  "lines": [
+   {"mm": [181.6, 225.6, 190.9, 230.4], "text": "6.00"},
+   {"mm": [108.8, 210.5, 118.5, 215.3], "text": "0.50"},
+   {"mm": [180.1, 209.4, 191.9, 214.2], "text": "5.000"},
+   {"mm": [286.9, 193.2, 307.4, 197.5], "text": "0.167 DIA"},
+   {"mm": [313.5, 191.9, 356.7, 198.4], "text": "INSERT FROM OTHER"},
+   {"mm": [287.4, 188.9, 329.0, 194.4], "text": "SIDE PEM S-440-2"},
+   {"mm": [338.1, 188.5, 355.4, 193.8], "text": "2 REQ,D"},
+   {"mm": [62.4, 184.6, 72.1, 188.9], "text": "0.50"},
+   {"mm": [80.1, 181.4, 92.6, 185.7], "text": "0.250"},
+   {"mm": [62.4, 147.5, 72.1, 152.3], "text": "0.48"},
+   {"mm": [80.7, 150.7, 92.6, 155.0], "text": "0.230"},
+   {"mm": [283.0, 124.1, 331.6, 128.9], "text": "#4-40 UNC 4 REQ'D"},
+   {"mm": [130.4, 118.7, 138.4, 123.1], "text": "00o"},
+   {"mm": [183.3, 118.3, 191.3, 122.6], "text": "0oo"},
+   {"mm": [49.7, 88.7, 101.5, 95.7], "text": "MATERIAL: ALUM"},
+   {"mm": [104.1, 87.7, 165.2, 95.3], "text": "ALLOY 0.080 THICK."},
+   {"mm": [289.1, 79.9, 301.0, 84.2], "text": "ISSUE"},
+   {"mm": [340.3, 79.2, 359.3, 84.0], "text": "REVISION"},
+   {"mm": [402.4, 78.8, 410.4, 83.1], "text": "APP"},
+   {"mm": [49.7, 74.7, 158.7, 82.3], "text": "FINISH: SAND 120 GRIT AND PAINT"},
+   {"mm": [74.5, 68.2, 124.1, 75.2], "text": "TEXTURED GREY"},
+   {"mm": [126.3, 67.8, 173.8, 74.7], "text": "TEXCOTE VINYL."},
+   {"mm": [267.3, 65.0, 301.0, 74.6], "text": "WBS"},
+   {"mm": [314.8, 64.3, 405.7, 74.8], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [49.9, 56.8, 61.3, 61.6], "text": "NOTE"},
+   {"mm": [55.3, 51.4, 138.4, 57.1], "text": "REMOVE ALL BURRS AND SHARP EDGES;"},
+   {"mm": [256.7, 55.1, 291.2, 60.6], "text": "DRN: DRG(5/95)"},
+   {"mm": [256.7, 49.2, 265.8, 54.0], "text": "ENG"},
+   {"mm": [55.9, 46.6, 117.2, 52.3], "text": "TOLERANCES: XX-+/-0.015"},
+   {"mm": [123.3, 46.4, 155.7, 51.9], "text": "XXX-+/-0.005"},
+   {"mm": [317.6, 42.3, 379.6, 51.1], "text": "COVER SUPPORT"},
+   {"mm": [256.7, 42.7, 265.8, 47.5], "text": "CKD"},
+   {"mm": [256.7, 36.3, 265.8, 41.1], "text": "APP"},
+   {"mm": [259.3, 28.5, 307.9, 34.6], "text": "SCALE DISC NO: SYSO1"},
+   {"mm": [396.0, 28.5, 408.9, 33.3], "text": "ISSUE"},
+   {"mm": [259.5, 22.7, 311.1, 29.8], "text": "1:1 CODE: 7000-035"},
+   {"mm": [331.6, 22.5, 385.4, 31.1], "text": "7000-03-035"}
+  ],
+  "scale": "DISC NO: SYSO1"
+ },
+ "title_block": {
+  "mm": [248.0, 22.5, 419.1, 90.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE",
+   "REVISION",
+   "APP",
+   "WBS",
+   "WARD-BECK SYSTEMS",
+   "DRN: DRG(5/95)",
+   "ENG",
+   "COVER SUPPORT",
+   "CKD",
+   "APP",
+   "SCALE DISC NO: SYSO1",
+   "ISSUE",
+   "1:1 CODE: 7000-035",
+   "7000-03-035"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 7000-03-035, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px); scale DISC NO: SYSO1",
+  "- **Ink extent:** 0–431 mm across, 6–298 mm up",
+  "- **Outlines:** line 102 rings, 1,961 straight (7,384 mm) / 157 curved (212 mm); text 497 rings, 3,190 straight (4,090 mm) / 1,065 curved (1,598 mm); tb 3 rings, 87 straight (206 mm) / 2 curved (2.7 mm)",
+  "- **Centre lines:** 3,158 paths (86 closed); straight 6,689 mm, curved 38.5 mm; horizontal 3,327 mm, vertical 1,470 mm, diagonal 1,891 mm",
+  "- **Circles and arcs:** 0 circles, 7 arcs",
+  "- **Closed boxes:** 14 (10 in the title block); named: 7000-03-035; ISSUE; CODE: 7000-035",
+  "- **Words (OCR):** 57 in 37 lines: 6.00 · 0.50 · 5.000 · 0.167 DIA · INSERT FROM OTHER · SIDE PEM S-440-2 · 2 REQ,D · 0.50 · 0.250 · 0.48 · 0.230 · #4-40 UNC 4 REQ'D",
+  "- **Title block:** (248, 22)–(419, 90) mm: ISSUE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN: DRG(5/95) · ENG · COVER SUPPORT · CKD · APP · SCALE DISC NO: SYSO1 · ISSUE · 1:1 CODE: 7000-035 · 7000-03-035"
+ ]
+}

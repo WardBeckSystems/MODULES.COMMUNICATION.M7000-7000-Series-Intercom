@@ -1,0 +1,102 @@
+{
+ "drawing": "Modules/COMMUNICATION/M7000/MECHANICAL/1995 - 7000-03-034 - IKR COVER - DRN DRG - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/416609835bd342e9.svg",
+ "sheet": {
+  "number": "D 7000-03-034",
+  "title": "IKR COVER",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "D",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1415],
+  "mm": [863.6, 611.0],
+  "mm_per_px": 0.4318
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [59.6, 36.3, 863.6, 471.1],
+ "outlines": {
+  "line": {"rings": 241, "straight": {"n": 1947, "mm": 12514.2}, "curved": {"n": 384, "mm": 877.0}},
+  "text": {"rings": 194, "straight": {"n": 1070, "mm": 1899.5}, "curved": {"n": 358, "mm": 896.4}},
+  "tb": {"rings": 24, "straight": {"n": 198, "mm": 407.5}, "curved": {"n": 62, "mm": 138.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1863, "straight": {"n": 2088, "mm": 6365.3}, "curved": {"n": 20, "mm": 31.4}},
+   "text": {"paths": 1083, "straight": {"n": 1399, "mm": 1451.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 322, "straight": {"n": 375, "mm": 855.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 80,
+  "orientation": {"horizontal": {"n": 972, "mm": 4518.9}, "vertical": {"n": 984, "mm": 1970.9}, "diagonal": {"n": 1906, "mm": 2182.6}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [757.2, 44.2], "r": 2.4, "kind": "arc", "span": 226, "from": ["centre line"], "start": 106},
+  {"c": [124.3, 52.8], "r": 1.8, "kind": "arc", "span": 168, "from": ["centre line"], "start": 8},
+  {"c": [706.6, 46.8], "r": 1.5, "kind": "arc", "span": 189, "from": ["centre line"], "start": 320},
+  {"c": [701.2, 59.2], "r": 1.4, "kind": "arc", "span": 233, "from": ["centre line"], "start": 342},
+  {"c": [745.7, 47.1], "r": 1.4, "kind": "arc", "span": 143, "from": ["centre line"], "start": 72},
+  {"c": [61.0, 56.1], "r": 1.3, "kind": "arc", "span": 191, "from": ["centre line"], "start": 96}
+ ],
+ "boxes": [
+  {"mm": [183.9, 411.1, 186.1, 414.5], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [210.3, 244.4, 651.6, 411.6], "w": 441.3, "h": 167.2, "from": "ring"},
+  {"mm": [97.6, 320.6, 99.7, 324.7], "w": 2.2, "h": 4.1, "from": "ring"},
+  {"mm": [144.7, 318.6, 147.4, 322.1], "w": 2.7, "h": 3.6, "from": "ring"},
+  {"mm": [741.4, 93.7, 752.6, 99.3], "w": 11.2, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [729.3, 93.3, 741.0, 98.9], "w": 11.7, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [734.1, 50.1, 848.5, 76.4], "w": 114.4, "h": 26.3, "from": "ring", "words": ["IKR COVER"]},
+  {"mm": [699.1, 68.7, 733.6, 74.7], "w": 34.5, "h": 6.0, "from": "ring", "in_title_block": true},
+  {"mm": [98.5, 59.2, 103.2, 62.2], "w": 4.7, "h": 3.0, "from": "ring"},
+  {"mm": [699.9, 57.3, 707.3, 60.5], "w": 7.3, "h": 3.1, "from": "ring"},
+  {"mm": [134.7, 55.3, 139.5, 58.3], "w": 4.7, "h": 3.0, "from": "ring"},
+  {"mm": [137.3, 51.0, 139.6, 54.0], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [66.5, 50.1, 72.1, 53.1], "w": 5.6, "h": 3.0, "from": "ring"},
+  {"mm": [73.4, 50.1, 78.2, 53.1], "w": 4.7, "h": 3.0, "from": "ring"},
+  {"mm": [833.8, 38.9, 848.9, 51.0], "w": 15.1, "h": 12.1, "from": "ring"},
+  {"mm": [763.4, 37.6, 832.9, 50.5], "w": 69.5, "h": 13.0, "from": "ring", "words": ["7000-03-034"]},
+  {"mm": [717.7, 43.6, 752.2, 49.7], "w": 34.5, "h": 6.0, "from": "ring", "words": ["DGC NO"]},
+  {"mm": [699.5, 36.7, 717.2, 48.8], "w": 17.7, "h": 12.1, "from": "ring"},
+  {"mm": [756.9, 41.9, 759.1, 45.8], "w": 2.2, "h": 3.9, "from": "ring"},
+  {"mm": [721.1, 38.4, 725.9, 41.9], "w": 4.7, "h": 3.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [420.6, 461.6, 438.7, 467.8], "text": "17.320"},
+   {"mm": [189.6, 417.1, 204.7, 425.8], "text": "04870 -"},
+   {"mm": [157.2, 389.1, 172.3, 397.7], "text": "01830"},
+   {"mm": [136.0, 385.2, 149.0, 389.5], "text": "1.28C"},
+   {"mm": [112.7, 322.1, 127.8, 328.4], "text": "6.110"},
+   {"mm": [453.0, 221.9, 468.1, 228.2], "text": "0.130"},
+   {"mm": [462.0, 216.8, 515.6, 229.7], "text": "\"8.384 C\"Sk 02 REOEG"},
+   {"mm": [693.5, 211.2, 783.3, 218.8], "text": "CHAMFER 0,12 45 DEC REC D"},
+   {"mm": [177.5, 186.1, 192.6, 192.3], "text": "0,250"},
+   {"mm": [755.2, 80.3, 842.4, 91.3], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [705.6, 79.5, 743.1, 88.1], "text": "WBS"},
+   {"mm": [91.5, 63.5, 104.5, 66.8], "text": "AURET"},
+   {"mm": [101.0, 54.4, 126.9, 63.0], "text": "ALLot 0-064"},
+   {"mm": [133.0, 63.5, 144.7, 67.8], "text": "EDGES"},
+   {"mm": [772.5, 58.7, 811.4, 67.4], "text": "IKR COVER"},
+   {"mm": [65.6, 58.3, 90.7, 62.6], "text": "TCLEKANCES"},
+   {"mm": [65.6, 54.0, 85.1, 58.3], "text": "MATERUL"},
+   {"mm": [82.0, 49.7, 95.0, 54.0], "text": "CLLAN"},
+   {"mm": [154.6, 50.5, 170.6, 54.8], "text": "EXCOTE"},
+   {"mm": [716.8, 44.0, 734.9, 48.4], "text": "DGC NO"},
+   {"mm": [773.4, 40.6, 825.2, 48.3], "text": "7000-03-034"}
+  ]
+ },
+ "title_block": {"mm": [688.2, 67.1, 859.8, 103.4], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS", "WBS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical D 7000-03-034, size D 864 × 611 mm, 2000 × 1415 px traced (0.432 mm/px)",
+  "- **Ink extent:** 60–864 mm across, 36–471 mm up",
+  "- **Outlines:** line 241 rings, 1,947 straight (12,514 mm) / 384 curved (877 mm); text 194 rings, 1,070 straight (1,900 mm) / 358 curved (896 mm); tb 24 rings, 198 straight (408 mm) / 62 curved (138 mm)",
+  "- **Centre lines:** 3,268 paths (80 closed); straight 8,672 mm, curved 31.4 mm; horizontal 4,519 mm, vertical 1,971 mm, diagonal 2,183 mm",
+  "- **Circles and arcs:** 0 circles, 6 arcs",
+  "- **Closed boxes:** 20 (3 in the title block); named: IKR COVER; 7000-03-034; DGC NO",
+  "- **Words (OCR):** 25 in 21 lines: 17.320 · 04870 - · 01830 · 1.28C · 6.110 · 0.130 · \"8.384 C\"Sk 02 REOEG · CHAMFER 0,12 45 DEC REC D · 0,250 · WARD-BECK SYSTEMS · WBS · AURET",
+  "- **Title block:** (688, 67)–(860, 103) mm: WARD-BECK SYSTEMS · WBS"
+ ]
+}
