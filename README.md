@@ -39,6 +39,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1980 - 7000-03-008 - 7000 SERIES INTERCOM DESK PANELS MOUNTING DETAIL - DRN P. Mahoney - ENG MRW - ISS 1.jpg`, `1986 - 7000-03-019 - IKP-24C INTERCOM KEY PANELS - DRN BD - ENG GEB - ISS 1.jpg`, `1988 - 7000-03-017 - BELT CLIP - DRN DRG - ISS 5.jpg`, `1995 - 7000-03-031 - IKR-4A REAR HOUSING - DRN DRG - ISS 1.jpg`, `1995 - 7000-03-032 - IKR-10 PANEL - DRN DRG - ISS 1.jpg`, `1995 - 7000-03-034 - IKR COVER - DRN DRG - ISS 1.jpg`, `1995 - 7000-03-035 - COVER SUPPORT - DRN DRG - ISS 1.jpg`, `1995 - 7000-03-037 - IKR-10B (1 RACK UNIT) PANEL - DRN DRG - ISS 1.jpg`, `1997 - 7000-03-036 - IKR-10A PANEL (2RU) - DRN DRG - ISS 1.jpg`, `1997 - 7000-03-036 - IKR-10A PANEL(2RU) - DRN DRG - ISS 1.jpg`, `1998 - 7000-03-039 - IKR-10B PANEL(2RU) (2X PCB) - DRN DRG - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M7000.stl`](MECHANICAL/M7000.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M7000)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M7000 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M7000.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
