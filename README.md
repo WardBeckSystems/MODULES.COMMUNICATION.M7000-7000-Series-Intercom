@@ -13,6 +13,26 @@ Ward-Beck Systems M7000, 1977|10. Wiki page: [M7000 on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 28 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1977 - M7000 - 7000 series - 007.jpg](MANUALS/1977%20-%20M7000%20-%207000%20series%20-%20007.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Microphone to speaker: 8 5dB (-60dBm in 3W out) Microphone to line: 68aB (-6 0dBm in +8dBm out) |
+| **Frequency response** | #2B 10OHz to 8kHz (Bandwidth Controlled) |
+| **Noise** | Microphone: equivalent noise -120dBm Line: 7 0dBm S/N below +l8dBm output |
+| **Total harmonic distortion** | Less than 1.58 1WHz to 8kHz Microphone input (-50dBm) to speaker output (3W 8 ohms load) |
+| **Input levels** | Microphone: (Dynamic) -6 OdBm to -3OdBm 150 ohms balanced (Carbon) -30dBm to OdBm, balanced or unbalanced Compressor reduces input dynamic range by 3/1, compression range 25dB _ Line: +8dBm 600 ohms balanced |
+| **Output levels** | Line: +8dBm into 600 ohms balanced Speaker: 3W maximum into 8 ohms |
+| **Dimensions** | M7006 5 rack units (8.75 ins.) M7012 8 rack units (14 ins.) M7024 14 rack units (24.50 ins.) |
+| **Power consumption** | M7006 100 VA M7012 200 VA M7024 400 VA |
+| **Ambient temperature** | oa to 50oc |
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
