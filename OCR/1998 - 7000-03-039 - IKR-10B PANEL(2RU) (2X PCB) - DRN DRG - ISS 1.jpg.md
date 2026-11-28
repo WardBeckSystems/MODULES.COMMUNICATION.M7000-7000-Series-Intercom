@@ -1,5 +1,5 @@
 # 1998 - 7000-03-039 - IKR-10B PANEL(2RU) (2X PCB) - DRN DRG - ISS 1.jpg
-Wiki page: [M7000](../../../../PAGES/M7000.md)
+Wiki page: [M7000](../)
 
 
 - **Year:** 1998 (title block date)

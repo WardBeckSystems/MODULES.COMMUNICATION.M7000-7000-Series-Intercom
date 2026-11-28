@@ -1,5 +1,5 @@
 # 1988 - 7000-03-017 - BELT CLIP - DRN DRG - ISS 5.jpg
-Wiki page: [M7000](../../../../PAGES/M7000.md)
+Wiki page: [M7000](../)
 
 
 - **Year:** 1988 (title block date)

@@ -1,5 +1,5 @@
 # 1980 - 7000-03-008 - 7000 SERIES INTERCOM DESK PANELS MOUNTING DETAIL - DRN P. Mahoney - ENG MRW - ISS 1.jpg
-Wiki page: [M7000](../../../../PAGES/M7000.md)
+Wiki page: [M7000](../)
 
 
 - **Year:** 1980 (title block date)

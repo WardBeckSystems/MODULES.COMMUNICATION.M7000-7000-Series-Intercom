@@ -1,5 +1,5 @@
 # 1977 - M7000 - price list.jpg
-Wiki page: [M7000](../../../../PAGES/M7000.md)
+Wiki page: [M7000](../)
 
 
 - **Year:** 1977 (found in this file: "6/15/77")

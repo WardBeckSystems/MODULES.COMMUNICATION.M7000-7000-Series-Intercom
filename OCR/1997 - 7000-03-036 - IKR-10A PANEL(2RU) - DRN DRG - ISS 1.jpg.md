@@ -1,5 +1,5 @@
 # 1997 - 7000-03-036 - IKR-10A PANEL(2RU) - DRN DRG - ISS 1.jpg
-Wiki page: [M7000](../../../../PAGES/M7000.md)
+Wiki page: [M7000](../)
 
 
 - **Year:** 1997 (title block date)

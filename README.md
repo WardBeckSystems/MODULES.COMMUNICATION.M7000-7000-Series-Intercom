@@ -1,6 +1,6 @@
 # M7000 7000 Series Intercom · Communication
 
-Ward-Beck Systems M7000, 1977|10. Wiki page: [M7000 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7000.html)
+Ward-Beck Systems M7000, 1977|10. Wiki page: [M7000 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/)
 
 | Folder | What is in it | Files |
 |---|---|---|

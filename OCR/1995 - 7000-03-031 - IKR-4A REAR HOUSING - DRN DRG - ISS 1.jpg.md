@@ -1,5 +1,5 @@
 # 1995 - 7000-03-031 - IKR-4A REAR HOUSING - DRN DRG - ISS 1.jpg
-Wiki page: [M7000](../../../../PAGES/M7000.md)
+Wiki page: [M7000](../)
 
 
 - **Year:** 1995 (title block date)

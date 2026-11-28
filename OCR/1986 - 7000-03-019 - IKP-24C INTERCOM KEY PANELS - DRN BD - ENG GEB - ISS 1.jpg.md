@@ -1,5 +1,5 @@
 # 1986 - 7000-03-019 - IKP-24C INTERCOM KEY PANELS - DRN BD - ENG GEB - ISS 1.jpg
-Wiki page: [M7000](../../../../PAGES/M7000.md)
+Wiki page: [M7000](../)
 
 
 - **Year:** 1986 (title block date)
